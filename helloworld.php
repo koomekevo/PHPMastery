@@ -7,6 +7,12 @@
     <title>Document</title>
 </head>
 <body>
+    <?php
+    // Single line comments
+    /* Double line comments
+       are written like this
+    */
+    ?>
     <?php echo "Hello World"; ?><br />
     <?php echo "Hello"." World"; ?><br />
     <?php echo 2 + 3; ?>
